@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+*.pk
+
+*.pyc
+
+*.pt
+
+metastore_db/*
+
+derby.log
